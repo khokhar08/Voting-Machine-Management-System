@@ -1,4 +1,5 @@
 for election officer :
 
-USERNAME :- officer
-PASSWORD :- 12345
+USERNAME :- admin
+PASSWORD :- admin@123
+
